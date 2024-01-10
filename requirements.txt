@@ -1,4 +1,4 @@
-pytest>=7.4.2
+pytest>=7.4.4
 Flask==3.0.0
 flask-cors==4.0.0
 logzero  # see github.com/metachris/logzero
